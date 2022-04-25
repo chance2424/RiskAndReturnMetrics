@@ -1,11 +1,31 @@
-#Risk Return Analysis
-I will be evaluating new investment options for inclusion in client portfolios.
+# Risk_Return_Metrics
 
-Technologies
-Code is written using Python version 3.7.11 on a Jupyter Lab Notebook
+I will be evaluating new investment options for inclusion in client portfolios as a quantitative analyst
+---
 
-Contributors
-code was provided by the UC Berkely Extensions Fintech Bootcamp program. Modifications were made By Chance Dion Griffin
+## Technologies
 
-License
-The project is licensed for use only by Chance Dion Griffin and the contributors UC Berkeley.
+This program was created using Python version 3.7.11 with a Jupyter Lab Notebook
+
+---
+
+## Installation Guide
+
+git clone https://github.com/chance2424/Business_loan_qualifier_app.git
+
+---
+
+## Usage
+Will determine the fund with the most investment potential based on key risk-management metrics: the daily returns, standard deviations, Sharpe ratios, and betas.
+
+---
+
+## Contributors
+
+Starter code was provided by UC Berkeley and modifications were done by Chance Dion Griffin
+
+---
+
+## License
+
+This project is only for the use of Chance Dion Griffin and TAs of the UC Berkeley's fintech bootcamp.
